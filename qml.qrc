@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Root.qml</file>
+        <file>R_btn.qml</file>
+        <file>1.jfif</file>
+        <file>2.jfif</file>
+        <file>3.jfif</file>
+        <file>L_panel.qml</file>
+        <file>Drewline.qml</file>
+        <file>Samplels.qml</file>
+        <file>Color_btn.qml</file>
+    </qresource>
+</RCC>
